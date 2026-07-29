@@ -59,7 +59,8 @@ After downloading, set `ModelConfig.checkpoint_path` and `ModelConfig.encoder_we
 ## Data Preparation
 
 The paper training setup uses foregrounds and alpha mattes from Adobe Composition-1K and background images such as MS COCO.
-
+### Adobe Deep Image Matting Dataset
+Follow the [instruction](https://sites.google.com/view/deepimagematting) to contact author for the dataset.
 Edit the default dataset paths in `utils/config.py` before running evaluation or visualisation workflows that depend on local data.
 
 ## Training
