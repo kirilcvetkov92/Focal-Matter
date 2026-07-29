@@ -6,7 +6,7 @@ FocalMatter is a trimap-guided natural image matting network. It combines a Foca
 
 | Input image | Trimap | Predicted alpha |
 | --- | --- | --- |
-| ![Input image](visualisations/input_image.png) | ![Trimap](visualisations/trimap.png) | ![Predicted alpha](visualisations/pred_alpha.png) |
+| ![Input image example 2](visualisations/input_image2.png) | ![Trimap example 2](visualisations/trimap2.png) | ![Predicted alpha example 2](visualisations/pred_alpha2.png) |
 
 ## Architecture
 
