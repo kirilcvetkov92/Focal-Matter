@@ -76,13 +76,6 @@ python eval.py
 
 The evaluator loads the configured checkpoint, predicts alpha mattes, writes outputs when `EvalConfig.write_outputs` is enabled, and reports SAD and MSE. When `EvalConfig.full_metrics` is enabled, it also reports gradient and connectivity errors.
 
-## Paper
-
-The paper source is available at:
-
-```text
-paper/conference_041818.tex
-```
 
 Architecture diagrams and activation visualizations are stored under `paper/figures/`, `assets/`, and `visualisations/`.
 
