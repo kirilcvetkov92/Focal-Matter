@@ -1,6 +1,6 @@
 # FocalMatter
 
-Official implementation of [**FocalMatter: State-of-the-art Image Matting with Focal Modulation Blocks** [SSRN 2026]](https://papers.ssrn.com/sol3/Delivery.cfm/ec35457c-476a-4742-a8c7-bcbd85b50117-MECA.pdf?abstractid=7153802&mirid=1)
+Official implementation of [**FocalMatter: A Novel Focal Modulation-Based Network for Image Matting** [SSRN 2026]](https://papers.ssrn.com/sol3/Delivery.cfm/ec35457c-476a-4742-a8c7-bcbd85b50117-MECA.pdf?abstractid=7153802&mirid=1)
 
 FocalMatter is a trimap-guided natural image matting network. It combines a FocalNet encoder with a compact U-shaped decoder to predict high-quality alpha mattes from an RGB image and a trimap. The model uses focal modulation for multi-scale context reasoning while keeping the decoder lightweight for high-resolution matting.
 
