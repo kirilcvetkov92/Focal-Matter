@@ -1,4 +1,4 @@
-# FocalMatter - Image Matting SOTA
+# FocalMatter 
 
 Official implementation of [**FocalMatter: A Novel Focal Modulation-Based Network for Image Matting** [SSRN 2026]](https://papers.ssrn.com/sol3/Delivery.cfm/ec35457c-476a-4742-a8c7-bcbd85b50117-MECA.pdf?abstractid=7153802&mirid=1)
 
